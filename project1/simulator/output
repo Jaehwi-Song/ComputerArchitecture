@@ -1,0 +1,1149 @@
+memory[0]=8650763
+memory[1]=8454154
+memory[2]=2
+memory[3]=65539
+memory[4]=1245186
+memory[5]=1638403
+memory[6]=18612225
+memory[7]=16842748
+memory[8]=12713984
+memory[9]=25165824
+memory[10]=-1
+memory[11]=-10
+
+@@@
+state:
+	pc 0
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] 0
+		reg[ 2 ] 0
+		reg[ 3 ] 0
+		reg[ 4 ] 0
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 1
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] 0
+		reg[ 2 ] 0
+		reg[ 3 ] 0
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 2
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] 0
+		reg[ 3 ] 0
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 3
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] 0
+		reg[ 3 ] 0
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 4
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] 0
+		reg[ 3 ] -1
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 5
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -1
+		reg[ 3 ] -1
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 6
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -1
+		reg[ 3 ] -2
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 7
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -1
+		reg[ 3 ] -2
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 4
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -1
+		reg[ 3 ] -2
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 5
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -3
+		reg[ 3 ] -2
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 6
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -3
+		reg[ 3 ] -3
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 7
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -3
+		reg[ 3 ] -3
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 4
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -3
+		reg[ 3 ] -3
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 5
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -6
+		reg[ 3 ] -3
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 6
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -6
+		reg[ 3 ] -4
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 7
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -6
+		reg[ 3 ] -4
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 4
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -6
+		reg[ 3 ] -4
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 5
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -10
+		reg[ 3 ] -4
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 6
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -10
+		reg[ 3 ] -5
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 7
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -10
+		reg[ 3 ] -5
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 4
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -10
+		reg[ 3 ] -5
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 5
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -15
+		reg[ 3 ] -5
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 6
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -15
+		reg[ 3 ] -6
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 7
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -15
+		reg[ 3 ] -6
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 4
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -15
+		reg[ 3 ] -6
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 5
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -21
+		reg[ 3 ] -6
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 6
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -21
+		reg[ 3 ] -7
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 7
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -21
+		reg[ 3 ] -7
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 4
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -21
+		reg[ 3 ] -7
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 5
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -28
+		reg[ 3 ] -7
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 6
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -28
+		reg[ 3 ] -8
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 7
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -28
+		reg[ 3 ] -8
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 4
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -28
+		reg[ 3 ] -8
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 5
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -36
+		reg[ 3 ] -8
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 6
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -36
+		reg[ 3 ] -9
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 7
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -36
+		reg[ 3 ] -9
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 4
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -36
+		reg[ 3 ] -9
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 5
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -45
+		reg[ 3 ] -9
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 6
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -45
+		reg[ 3 ] -10
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 8
+	memory:
+		mem[ 0 ] 8650763
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -45
+		reg[ 3 ] -10
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 9
+	memory:
+		mem[ 0 ] -45
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -45
+		reg[ 3 ] -10
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+machine halted
+total of 41 instructions executed!
+final state of machine:
+
+@@@
+state:
+	pc 10
+	memory:
+		mem[ 0 ] -45
+		mem[ 1 ] 8454154
+		mem[ 2 ] 2
+		mem[ 3 ] 65539
+		mem[ 4 ] 1245186
+		mem[ 5 ] 1638403
+		mem[ 6 ] 18612225
+		mem[ 7 ] 16842748
+		mem[ 8 ] 12713984
+		mem[ 9 ] 25165824
+		mem[ 10 ] -1
+		mem[ 11 ] -10
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -1
+		reg[ 2 ] -45
+		reg[ 3 ] -10
+		reg[ 4 ] -10
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
